@@ -14,19 +14,13 @@ jquery炫酷轮播图片
 #### 使用说明
 * slides-*.js 可修改配置使用不同效果
 
-#### 参与贡献
+# 如何贡献
+非常欢迎您对ShopXO的开发作出贡献！
+你可以选择以下方式向ShopXO贡献：
+- [Github - 发布issue进行问题反馈和建议](https://github.com/gongfuxiang/slides/pulls)
+- [码云/开源中国 - 发布issue进行问题反馈和建议](https://gitee.com/gongfuxiang/slides/pulls)
+- 通过Pull Request提交修复
+- 完善我们的文档和例子
 
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+# 开源协议
+Apache License Version 2.0 see http://www.apache.org/licenses/LICENSE-2.0.html
