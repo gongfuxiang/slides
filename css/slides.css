@@ -1,0 +1,13 @@
+/**
+ * 幻灯片
+ */
+#slides { background-color: #262626; height: 500px; background-repeat: no-repeat; background-position: center; }
+#slides .items { height: 100%; }
+#slides .left, #slides .right, #slides .dot li { cursor: pointer; }
+#slides .left { float: left; }
+#slides .right { float: right; }
+#slides .dot { margin-top: -60px; text-align: center; }
+#slides .dot li { background-color: #fff; border: 4px solid rgba(0,0,0,.3); border-radius: 10px; display: inline-block; margin: 5px; width: 5px; height: 5px; list-style-type: none; transition: all .36s ease; background-clip: content-box;}
+#slides .dot li:hover {  width: 8px; height: 8px; border-width: 3px; }
+#slides .dot li.active { background-color: transparent; width: 10px; height: 10px; border: 2px solid #fff; }
+.max-width { width: 1000px; margin: 0 auto; }
