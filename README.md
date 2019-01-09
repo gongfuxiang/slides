@@ -3,21 +3,16 @@
 #### 介绍
 jquery炫酷轮播图片
 
-#### 软件架构
-软件架构说明
+#### 效果展示
+* 缩放效果 http://gong.gg/my-test/slides/index-size.html
+* 左右滑动 http://gong.gg/my-test/slides/index-follow.html
 
 
 #### 安装教程
-
-1. xxxx
-2. xxxx
-3. xxxx
+* 下载打开html文件即可使用
 
 #### 使用说明
-
-1. xxxx
-2. xxxx
-3. xxxx
+* slides-*.js 可修改配置使用不同效果
 
 #### 参与贡献
 
