@@ -7,6 +7,9 @@ jquery炫酷轮播图片
 * 缩放效果 http://gong.gg/my-test/slides/index-size.html
 * 左右滑动 http://gong.gg/my-test/slides/index-follow.html
 
+### 源代码平台
+* Github：https://github.com/gongfuxiang/slides
+* 码云/开源中国：https://gitee.com/gongfuxiang/slides
 
 #### 安装教程
 * 下载打开html文件即可使用
