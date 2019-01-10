@@ -1,7 +1,7 @@
 /**
  * 幻灯片
  */
-#slides { background-color: #262626; height: 500px; background-repeat: no-repeat; background-position: center; }
+#slides { background-color: #262626; height: 480px; background-repeat: no-repeat; background-position: center; overflow: hidden; }
 #slides .items { height: 100%; }
 #slides .left, #slides .right, #slides .dot li { cursor: pointer; }
 #slides .left { float: left; }
